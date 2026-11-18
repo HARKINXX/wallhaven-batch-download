@@ -4,7 +4,7 @@
 
 一个用于 Microsoft Edge 的油猴（Tampermonkey）脚本，在 wallhaven.cc 的列表页把当前页的高清**原图**批量下载到本地，支持数量上限、自动翻页、指定子目录、已下载去重。
 
-- 脚本文件：`wallhaven-batch-download.user.js`（本目录内）
+- 脚本文件：`wallhaven-batch-download.js`（本目录内）
 - 适用页面：`https://wallhaven.cc/*` 中所有带缩略图列表的页面（排行、热门、最新、搜索结果、标签页、自己的收藏页等）
 
 ---
